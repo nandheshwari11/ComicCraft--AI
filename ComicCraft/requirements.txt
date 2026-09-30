@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+jinja2
+python-multipart
+google-genai
+# Keeps installation on older Intel macOS Python environments wheel-only.
+cryptography>=44,<45
+Pillow
+fpdf2
+python-dotenv

@@ -1,0 +1,7 @@
+# Install these only when COMICCRAFT_IMAGE_MODE=stable-diffusion.
+-r requirements.txt
+diffusers
+transformers
+torch
+accelerate
+safetensors
